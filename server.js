@@ -4,4 +4,3 @@ const server = http.createServer((req, res)=>{
 });
 const port = 5000;
 server.listen(5000);
-console.log('server is working ${`port`}')
